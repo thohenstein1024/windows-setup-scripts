@@ -7,12 +7,12 @@
  # Author: Taylor Hohenstein <thohenstein1024@gmail.com>
  # Source: https://github.com/thohenstein1024/windows-setup-scripts
  # Created: 1/4/2018
- # Modified: 7/13/2018
+ # Modified: 7/14/2018
  #>
 
 $services = @(
-	'wscsvc'                    # Security Center (used by Action Center)
-	'HomeGroupListener'         # HomeGroup Listener
+    'wscsvc'                    # Security Center (used by Action Center)
+    'HomeGroupListener'         # HomeGroup Listener
     'HomeGroupProvider'         # HomeGroup Provider
 )
 
